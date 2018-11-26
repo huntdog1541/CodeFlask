@@ -26,7 +26,7 @@ export const editor_css = `
 
   .codeflask__textarea {
     background: none;
-    border: none;
+    border-style: solid;
     color: ${COLOR};
     z-index: 1;
     resize: none;
